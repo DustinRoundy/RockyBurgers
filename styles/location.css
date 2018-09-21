@@ -51,7 +51,7 @@ li a:hover {
     align-items: center;
 }
 .hero-text{
-    font-family: Blissful, serif !important;
+    font-family: Blissful;
     letter-spacing: 5px;
     text-align: center;
     color: white;
@@ -67,8 +67,6 @@ li a:hover {
     background-color: #f05054;
     border: 4px solid #d44a4d;
     border-radius: 20px 20px 20px 20px;
-    display:flex;
-    justify-content: center;
 }
 .cheese{
     margin-left: 20px;
@@ -85,10 +83,8 @@ footer{
     color: #21171c;
     margin: 25px 0px 40px 0px;
 }
-.inside hr{
-    width: 18%;
-    border-width: 5px;
-    background-color: #21171c;
+.inside img{
+  width: 80%;
 }
 .lettuce{
     margin-left: 20px;
@@ -98,30 +94,10 @@ footer{
     border-radius: 20px 20px 20px 20px;
 
 }
-.lettuce form{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-.lettuce input{
-    width: 35%;
-    padding: 5px;
-    margin: 5px;
-    border-radius: 5px;
-    border: 2px solid #85a44c;
-}
 .hamburger{
     margin-left: 20px;
     margin-right: 20px;
     background-color: #922c2d;
     border: 4px solid #7c1e1f;
     border-radius: 20px 20px 20px 20px;
-}
-.hamburger, .items{
-    display: flex;
-    justify-content: space-evenly;
-}
-.item img{
-    max-width: 300px;
-    margin: 10px;
 }

@@ -51,7 +51,7 @@ li a:hover {
     align-items: center;
 }
 .hero-text{
-    font-family: Blissful, serif !important;
+    font-family: Blissful;
     letter-spacing: 5px;
     text-align: center;
     color: white;
@@ -98,17 +98,16 @@ footer{
     border-radius: 20px 20px 20px 20px;
 
 }
-.lettuce form{
+.hamburger form{
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-.lettuce input{
-    width: 35%;
+.hamburger input{
     padding: 5px;
     margin: 5px;
     border-radius: 5px;
-    border: 2px solid #85a44c;
+    /* border: 2px solid #85a44c; */
 }
 .hamburger{
     margin-left: 20px;
@@ -117,11 +116,15 @@ footer{
     border: 4px solid #7c1e1f;
     border-radius: 20px 20px 20px 20px;
 }
-.hamburger, .items{
+.items{
     display: flex;
     justify-content: space-evenly;
 }
 .item img{
     max-width: 300px;
     margin: 10px;
+}
+
+.submit{
+  margin-top: 8px;
 }

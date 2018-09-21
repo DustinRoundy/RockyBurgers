@@ -82,13 +82,13 @@ footer{
 }
 .inside{
     text-align: center;
-    color: #922c2d;
+    color: #21171c;
     margin: 25px 0px 40px 0px;
 }
 .inside hr{
     width: 18%;
     border-width: 5px;
-    background-color: #922c2d;
+    background-color: #21171c;
 }
 .lettuce{
     margin-left: 20px;
@@ -124,4 +124,10 @@ footer{
 .item img{
     max-width: 300px;
     margin: 10px;
+}
+
+.social a{
+  text-decoration: none;
+  color: #21171c;
+  font-size: 35px;
 }
