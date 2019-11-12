@@ -6,4 +6,4 @@
 
 ## Demo
 
-> A demo can be found [here.](https://fishy4341.github.io/RockyBurgers/)
+> A demo can be found [here.](https://dustinroundy.github.io/RockyBurgers/)
